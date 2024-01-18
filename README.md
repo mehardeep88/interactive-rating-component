@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](C:\Users\Mehardeep Kaur\Pictures\Screenshots\neww.png)
+![](images/neww.png)
 
 ### Links
 
