@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot%202024-01-18%20171537.png)
+![](C:\Users\Mehardeep Kaur\Pictures\Screenshots\neww.png)
 
 ### Links
 
